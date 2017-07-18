@@ -1,6 +1,6 @@
 {
   "name": "aws-flare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://theverymeanboy@github.com/theverymeanboy/flare.git",
   "author": "Joe Cruz <joecruz.tvmb@gmail.com>",
