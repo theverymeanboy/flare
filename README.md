@@ -5,9 +5,9 @@ Getting Started
 ------------
 
 Download the latest build for your platform below:
- * [macos](href="https://github.com/theverymeanboy/flare/raw/master/bin/flare-macos")
- * [linux](href="https://github.com/theverymeanboy/flare/raw/master/bin/flare-linux")
- * [windows](href="https://github.com/theverymeanboy/flare/raw/master/bin/flare-win.exe")
+ * [macos](https://github.com/theverymeanboy/flare/blob/master/bin/flare-macos?raw=true)
+ * [linux](https://github.com/theverymeanboy/flare/blob/master/bin/flare-linux?raw=true)
+ * [windows](https://github.com/theverymeanboy/flare/blob/master/bin/flare-win.exe?raw=true)
 
 Usage
 -----
