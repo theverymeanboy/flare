@@ -5,9 +5,9 @@ Getting Started
 ------------
 
 Download the latest build for your platform below:
- * [macos](href="")
- * [linux](href="")
- * [windows](href="")
+ * [macos](href="https://github.com/theverymeanboy/flare/raw/master/bin/flare-macos")
+ * [linux](href="https://github.com/theverymeanboy/flare/raw/master/bin/flare-linux")
+ * [windows](href="https://github.com/theverymeanboy/flare/raw/master/bin/flare-win.exe")
 
 Usage
 -----
@@ -22,10 +22,10 @@ $ ./flare --accessKeyId=#### --secretAccessKey=#### --list=#### --interval=####
 
 | Parameter         | Description                               | Example                                  | Notes                                                          |
 |-------------------|-------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| --accessKeyId     | 20-digit Amazon AWS IAM user access id    | ####                                     | *User must have access to read and update zones and records*   |
-| --secretAccessKey | 20-digit Amazon AWS IAM user secret key   | ####                                     | *See above*                                                    |
-| --list            | Comma-delimited list of domains to update | .tvmb.io,blog.joemakesstuff.com          | *For root A records, include a single dot at the start*        |
-| --interval        | Interval between syncs in minutes         | 60 *(Runs once an hour)*                 | *Must be a number*                                             |
+| accessKeyId     | 20-digit Amazon AWS IAM user access id    | ####                                     | *User must have access to read and update zones and records*   |
+| secretAccessKey | 20-digit Amazon AWS IAM user secret key   | ####                                     | *See above*                                                    |
+| list            | Comma-delimited list of domains to update | .tvmb.io,blog.joemakesstuff.com          | *For root A records, include a single dot at the start*        |
+| interval        | Interval between syncs in minutes         | 60 *(Runs once an hour)*                 | *Must be a number*                                             |
 
 
 License
